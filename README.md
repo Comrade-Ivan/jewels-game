@@ -1,3 +1,3 @@
 # jewels-game
 
-Simple jewels-game
+Простая игра 3 в ряд с применением ООП в JS.
